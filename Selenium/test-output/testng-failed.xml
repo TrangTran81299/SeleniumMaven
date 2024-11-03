@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automation.testsuite.TestNhanVien">
+      <class name="automation.testsuite.LocatorPractise">
         <methods>
-          <include name="nhapNhanVien"/>
-          <include name="init"/>
+          <include name="openChrome"/>
+          <include name="getLocatorBepTu"/>
         </methods>
-      </class> <!-- automation.testsuite.TestNhanVien -->
+      </class> <!-- automation.testsuite.LocatorPractise -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
