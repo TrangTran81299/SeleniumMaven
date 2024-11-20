@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-20T18:49:14 ICT" name="Default suite" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13723">
+  <suite started-at="2024-11-20T19:36:15 ICT" name="Default suite" finished-at="2024-11-20T19:36:23 ICT" duration-ms="7885">
     <groups>
     </groups>
-    <test started-at="2024-11-20T18:49:14 ICT" name="Default test" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13723">
+    <test started-at="2024-11-20T19:36:15 ICT" name="Default test" finished-at="2024-11-20T19:36:23 ICT" duration-ms="7885">
       <class name="automation.testsuite.BaiTapVeNhaDay12">
-        <test-method is-config="true" signature="openWebPage()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T18:49:14 ICT" name="openWebPage" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13430" status="PASS">
+        <test-method is-config="true" signature="openWebPage()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T19:36:15 ICT" name="openWebPage" finished-at="2024-11-20T19:36:22 ICT" duration-ms="7097" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openWebPage -->
-        <test-method signature="chooseSelectCountry()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T18:49:28 ICT" name="chooseSelectCountry" finished-at="2024-11-20T18:49:28 ICT" duration-ms="245" status="PASS">
+        <test-method signature="chooseSelectCountry()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T19:36:22 ICT" name="chooseSelectCountry" finished-at="2024-11-20T19:36:23 ICT" duration-ms="730" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseSelectCountry -->

@@ -17,6 +17,11 @@ public class BaiTapVeNhaDay12 extends CommonBase{
 	@Test
 	public void chooseSelectCountry() {
 		Select countryDropdownList = new Select(driver.findElement(By.xpath("//select")));
+		//selectByValue
 		countryDropdownList.selectByValue("ALB");
+		//selectByVisibleText
+		countryDropdownList.selectByVisibleText("Algeria");
+		//selectByIndex
+		countryDropdownList.selectByIndex(4);
 	}
 }
