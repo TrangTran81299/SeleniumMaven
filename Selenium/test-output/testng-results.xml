@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-03T16:12:02 ICT" name="Default suite" finished-at="2024-11-03T16:12:05 ICT" duration-ms="3189">
+  <suite started-at="2024-11-20T18:49:14 ICT" name="Default suite" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13723">
     <groups>
     </groups>
-    <test started-at="2024-11-03T16:12:02 ICT" name="Default test" finished-at="2024-11-03T16:12:05 ICT" duration-ms="3189">
-      <class name="automation.testsuite.PracticeXpathDay8">
-        <test-method is-config="true" signature="openChrome()[pri:0, instance:automation.testsuite.PracticeXpathDay8@1a451d4d]" started-at="2024-11-03T16:12:02 ICT" name="openChrome" finished-at="2024-11-03T16:12:05 ICT" duration-ms="3047" status="PASS">
+    <test started-at="2024-11-20T18:49:14 ICT" name="Default test" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13723">
+      <class name="automation.testsuite.BaiTapVeNhaDay12">
+        <test-method is-config="true" signature="openWebPage()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T18:49:14 ICT" name="openWebPage" finished-at="2024-11-20T18:49:28 ICT" duration-ms="13430" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openChrome -->
-        <test-method signature="getLocatorAutomationfc()[pri:0, instance:automation.testsuite.PracticeXpathDay8@1a451d4d]" started-at="2024-11-03T16:12:05 ICT" name="getLocatorAutomationfc" finished-at="2024-11-03T16:12:05 ICT" duration-ms="97" status="PASS">
+        </test-method> <!-- openWebPage -->
+        <test-method signature="chooseSelectCountry()[pri:0, instance:automation.testsuite.BaiTapVeNhaDay12@52e6fdee]" started-at="2024-11-20T18:49:28 ICT" name="chooseSelectCountry" finished-at="2024-11-20T18:49:28 ICT" duration-ms="245" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getLocatorAutomationfc -->
-      </class> <!-- automation.testsuite.PracticeXpathDay8 -->
+        </test-method> <!-- chooseSelectCountry -->
+      </class> <!-- automation.testsuite.BaiTapVeNhaDay12 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
