@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automation.testsuite.Day12_Dropdownlist">
+      <class name="automation.testsuite.LoginTest">
         <methods>
-          <include name="openWebPage"/>
-          <include name="chooseVietNamOption"/>
+          <include name="openBrowser"/>
+          <include name="logout"/>
+          <include name="closeDriver"/>
         </methods>
-      </class> <!-- automation.testsuite.Day12_Dropdownlist -->
+      </class> <!-- automation.testsuite.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
