@@ -6,6 +6,8 @@ public class CT_PageURL {
 	public static String globalsqa = "https://www.globalsqa.com/demo-site/select-dropdown-menu/";
 	public static String aladaURL = "https://alada.vn/tai-khoan/dang-nhap.html";
 	public static String codeStarURL = "http://test-system.crmstar.vn/";
+	public static String CRMCodeStar = "http://test-system.crmstar.vn/";
+	
 	
 
 }
