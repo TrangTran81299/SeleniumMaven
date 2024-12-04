@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automation.testsuite.QuanLyNguoiDungTest">
+      <class name="automation.testsuite.Tedu_CapNhatMatKhauTest">
         <methods>
-          <include name="OpenFireFox"/>
-          <include name="ThemNguoiDungThanhCong"/>
+          <include name="openChrome"/>
+          <include name="CapNhatMatKhauThanhCong"/>
         </methods>
-      </class> <!-- automation.testsuite.QuanLyNguoiDungTest -->
+      </class> <!-- automation.testsuite.Tedu_CapNhatMatKhauTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
